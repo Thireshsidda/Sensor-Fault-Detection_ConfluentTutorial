@@ -1,2 +1,0 @@
-confluent-kafka[avro,json,protobuf]
-pyspark==3.2.1
