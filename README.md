@@ -8,6 +8,7 @@ How to setup confluent Kafka.
 5. [Obtain Schema secrets](SchemaRegistry.md)
 ***
 
+
 Create a conda environment
 ```
 conda create -p venv python==3.7 -y
